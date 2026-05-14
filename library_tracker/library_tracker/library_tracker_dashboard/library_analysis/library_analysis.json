@@ -1,0 +1,38 @@
+{
+ "cards": [
+  {
+   "card": "Total Books"
+  },
+  {
+   "card": "Total Members"
+  },
+  {
+   "card": "Active Membership"
+  },
+  {
+   "card": "Available Books"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Books by Genre",
+   "width": "Half"
+  },
+  {
+   "chart": "Books",
+   "width": "Half"
+  }
+ ],
+ "creation": "2026-05-14 18:39:31.927747",
+ "dashboard_name": "Library Analysis",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2026-05-15 01:20:15.255340",
+ "modified_by": "Administrator",
+ "module": "Library Tracker",
+ "name": "Library Analysis",
+ "owner": "Administrator"
+}
