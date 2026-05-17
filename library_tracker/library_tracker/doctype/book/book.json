@@ -8,6 +8,7 @@
  "field_order": [
   "title",
   "authors",
+  "primary_author_country",
   "isbn",
   "puplication_year",
   "price",
@@ -86,12 +87,18 @@
    "fieldtype": "Date",
    "in_list_view": 1,
    "label": "Return Date"
+  },
+  {
+   "fieldname": "primary_author_country",
+   "fieldtype": "Data",
+   "label": "Author Country",
+   "read_only": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-05-14 20:35:52.364681",
+ "modified": "2026-05-17 21:27:48.482028",
  "modified_by": "Administrator",
  "module": "Library Tracker",
  "name": "Book",
