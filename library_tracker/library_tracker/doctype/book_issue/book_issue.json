@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "B-Issue-.####",
  "creation": "2026-05-14 20:41:47.653952",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -62,10 +63,11 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2026-05-15 00:38:00.165076",
+ "modified": "2026-05-19 01:00:54.601041",
  "modified_by": "Administrator",
  "module": "Library Tracker",
  "name": "Book Issue",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {
@@ -86,5 +88,6 @@
  "rows_threshold_for_grid_search": 20,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "track_changes": 1
 }

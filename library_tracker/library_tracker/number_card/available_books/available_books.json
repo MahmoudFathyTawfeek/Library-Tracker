@@ -1,7 +1,7 @@
 {
  "aggregate_function_based_on": "",
- "background_color": "#210b0b",
- "color": "#ffffff",
+ "background_color": "#B4CD29",
+ "color": "#0a0101",
  "creation": "2026-05-15 01:19:54.211219",
  "currency": "",
  "docstatus": 0,
@@ -14,7 +14,7 @@
  "is_public": 1,
  "is_standard": 1,
  "label": "Available Books",
- "modified": "2026-05-15 01:20:15.230088",
+ "modified": "2026-05-16 21:56:51.557121",
  "modified_by": "Administrator",
  "module": "Library Tracker",
  "name": "Available Books",
