@@ -21,7 +21,8 @@ this is a system for library
 
 ## Core Architecture & Models (DocTypes)
 * Book: Contains records of specific literary materials including details on title, author, genre, and physical state.
-* Author:Contains date about author including name, email, phone.
+* Author:Contains data about author including name, email, phone.
+* Book Author Link: a child table used to establish a many-to-many relationship linking multiple authors to a single book record.
 * Library Member: Holds comprehensive individual data profiles, structural settings, and notification endpoints.
 * Library Membership: Governs subscription validity records, execution dates, and renewal requirements.
 * Book Issue: Directs transactional sequences registering individual checkouts and return validations.

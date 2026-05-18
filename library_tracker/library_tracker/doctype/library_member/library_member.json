@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "L.M-.####",
  "creation": "2026-05-14 23:35:25.528399",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -33,10 +34,11 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-05-14 23:45:20.160920",
+ "modified": "2026-05-19 00:26:46.026218",
  "modified_by": "Administrator",
  "module": "Library Tracker",
  "name": "Library Member",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {

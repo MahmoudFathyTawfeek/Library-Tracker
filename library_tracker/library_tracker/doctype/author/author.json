@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "first_name",
+ "autoname": "Author-.####",
  "creation": "2026-05-14 16:46:09.425796",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -46,7 +46,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-05-14 18:08:07.286328",
+ "modified": "2026-05-19 00:21:32.554711",
  "modified_by": "Administrator",
  "module": "Library Tracker",
  "name": "Author",

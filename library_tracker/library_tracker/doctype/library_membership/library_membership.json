@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "Membership-.####",
  "creation": "2026-05-14 23:48:05.578387",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -53,10 +54,11 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2026-05-14 23:50:34.531974",
+ "modified": "2026-05-19 00:30:33.974489",
  "modified_by": "Administrator",
  "module": "Library Tracker",
  "name": "Library Membership",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {
